@@ -1,8 +1,8 @@
-<h1 align = "center">Pulkit</h1>
-- 👋 Hi, I’m @PulkitDabasOfficial
-- 👀 I’m interested in Web Development and Data Structures and Algorithm
-- 🌱 I’m currently learning somethings
-- 📫 How to reach me : email:pulkitdabasofficial@gmail.com
+<h1 align = "center">Pulkit Dabas</h1>
+- 👋 Hi, I am currently pursuing my Bachelors in ELectrical Engineering with a minor in Computer Engineering
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning somethings, the world says Machine Learining
+- 📫 How to reach me : email:**pulkitdabasofficial@gmail.com**
 - ⚡ Fun fact: I am from India
 
 <!---
