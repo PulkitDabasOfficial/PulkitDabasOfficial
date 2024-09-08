@@ -31,8 +31,6 @@
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
   <img align="left" alt="Microsoft Office" width="35px" src="https://imgs.search.brave.com/JnKPaKQg1_mdIQKuChr7mK8LV1_dg4qknDd1Or_vrGc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9NaWNyb3Nv/ZnRfT2ZmaWNlL01p/Y3Jvc29mdF9PZmZp/Y2UtTG9nby53aW5l/LnN2Zw"/>
-  <hr/>
-  <img align = "center" src = "https://imgs.search.brave.com/508ZaH_H1gSYtGeI8-uiJqG-XuI4WNjkl475uri_nU0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90ZWNo/Y3J1bmNoLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8x/MC9Hb29nbGUtV29y/a3NwYWNlLUljb25z/LWJhZC5wbmc_dz0x/Mjgw" alt = "Google Suite"/>
 </p>
 <!---
 PulkitDabasOfficial/PulkitDabasOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
