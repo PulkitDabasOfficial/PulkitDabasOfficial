@@ -11,11 +11,11 @@
 ⚡ Fun fact: I am from India
 <h3>
   Where to connect?
-<a href="www.linkedin.com/in/pulkit-d7" target = "_blank">LinkedIn
+<a href="www.linkedin.com/in/pulkit-d7">LinkedIn
 </h3>
 <h4>
   Where else to find?
-<a href="https://open.spotify.com/artist/3vMHKHaSfkb6dZC4P9hMI8?si=xA0zPWAFQXGhXMkQboHVb" target="_blank">Spotify
+<a href="https://open.spotify.com/artist/3vMHKHaSfkb6dZC4P9hMI8?si=xA0zPWAFQXGhXMkQboHVb">Spotify
 </h4>
 
 <!---
