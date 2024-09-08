@@ -1,3 +1,4 @@
+<h1 align = "center">Pulkit</h1>
 - 👋 Hi, I’m @PulkitDabasOfficial
 - 👀 I’m interested in Web Development and Data Structures and Algorithm
 - 🌱 I’m currently learning somethings
