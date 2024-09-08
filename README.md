@@ -18,6 +18,22 @@
 <a href="https://open.spotify.com/artist/3vMHKHaSfkb6dZC4P9hMI8?si=xA0zPWAFQXGhXMkQboHVb">Spotify
 </h4>
 
+<h3>Tools and Lanugages:</h3>
+<p>
+<img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/90901154/145535333-61361246-52a5-4756-a517-966f25c27b0a.png" />
+<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+  <img align="left" alt="Microsoft Office" width="35px" src="https://imgs.search.brave.com/JnKPaKQg1_mdIQKuChr7mK8LV1_dg4qknDd1Or_vrGc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9NaWNyb3Nv/ZnRfT2ZmaWNlL01p/Y3Jvc29mdF9PZmZp/Y2UtTG9nby53aW5l/LnN2Zw"/>
+  <hr/>
+  <img align = "center" src = "https://imgs.search.brave.com/508ZaH_H1gSYtGeI8-uiJqG-XuI4WNjkl475uri_nU0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90ZWNo/Y3J1bmNoLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8x/MC9Hb29nbGUtV29y/a3NwYWNlLUljb25z/LWJhZC5wbmc_dz0x/Mjgw" alt = "Google Suite"/>
+</p>
 <!---
 PulkitDabasOfficial/PulkitDabasOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
